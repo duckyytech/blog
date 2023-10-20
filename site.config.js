@@ -47,7 +47,7 @@ const CONFIG = {
     },
   },
   utterances: {
-    enable: false,
+    enable: true,
     config: {
       repo: "duckyytech/blog",
       "issue-term": "og:title",
